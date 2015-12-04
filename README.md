@@ -5,6 +5,8 @@ Transfer Learning:
 ~~~
 "How transferable are features in deep neural networks?"
 https://github.com/yosinski/convnet_transfer
+
+https://github.com/hycis/transfer_learning
 ~~~
 
 Domain Adaptation:
