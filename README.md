@@ -7,6 +7,9 @@ Transfer Learning:
 https://github.com/yosinski/convnet_transfer
 
 https://github.com/hycis/transfer_learning
+
+Transfer learning	and embedding
+https://courses.cs.ut.ee/MTAT.03.292/2015_spring/uploads/Main/FOTIS%20project%20amp%20face%20recognition%20using%20CNN.pdf
 ~~~
 
 Domain Adaptation:
